@@ -31,8 +31,6 @@ collections:
     template: { name: network, network: 1024 }
   YouTube:
     template: { name: network, network: "247, 1436, 4869" }
-  FX:
-    template: { name: network, network: 88 }
   Disney+:
     template: { name: network, network: "2739, 2919" }
   Apple+:
@@ -51,8 +49,6 @@ collections:
     template: { name: network, network: "29, 70, 4132" }
   USA Network:
     template: { name: network, network: 30 }
-  TBS:
-    template: { name: network, network: 68 }
   TNT:
     template: { name: network, network: 41 }
   Disney XD:
@@ -91,7 +87,7 @@ collections:
     template: { name: network, network: 61 }
   Shudder:
     template: { name: network, network: 2949 }
- The CW:
+  The CW:
    template: { name: network, network: 71 }
   ABC:
     template: { name: network, network: "2, 75" } 
@@ -101,5 +97,8 @@ collections:
     template: { name: network, network: 103 }
   IFC:
     template: { name: network, network: 124 }
-  
+  VH1:
+    template: { name: network, network: 158 }
+  TV Land:
+    template: { name: network, network: 397 }
   

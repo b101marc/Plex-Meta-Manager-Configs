@@ -63,3 +63,6 @@ collections:
     template: { name: Best of, year: 2020 }
   Best of 2021:
     template: { name: Best of, year: 2021 }
+  Sundance Film Festival 2021: 
+    template: { name: Chart, num: 6 }
+    trakt_list: https://trakt.tv/users/hdlists/lists/sundance-2021-movie-guide

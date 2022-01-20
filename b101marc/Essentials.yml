@@ -49,6 +49,3 @@ collections:
   80's Cult Classics:
     trakt_list: https://trakt.tv/users/zyrus/lists/80s-classics
     template: { name: Other Essentials, num: 2}
-  Sundance Film Festival 2021: 
-    trakt_list: https://trakt.tv/users/hdlists/lists/sundance-2021-movie-guide
-    template: { name: Other Essentials, num: 4}

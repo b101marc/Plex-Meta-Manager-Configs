@@ -1,4 +1,5 @@
-Newly Released Movies:
+collections:
+  Newly Released Movies:
     sort_title: +0_NewReleases
     sync_mode: sync
     smart_label: added.desc
